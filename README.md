@@ -2,21 +2,26 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">   
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?color=33F76C&center=true&vCenter=true&height=50&lines=Software+Engineer;A+low-level+kind+of+guy+;Stay+hydrated)">
-    </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=33F76C&center=true&vCenter=true&height=50&lines=Software+Engineer;A+low-level+kind+of+guy+;Stay+hydrated)">
+  </a>
 </p>
 
-- I am studing in KPI
-- 🌱 I’m currently learning **C/C++, Boost, OpenGL**
+<img align="right" alt="image" width="300em" src="https://github.com/VladSach/VladSach/blob/master/readerC.png" />
+
+- I'm a third year student pursuing Bachelors's in Software Engineering from Kyiv Polytechnic Institute
+- I’m currently learning **C/C++, Boost, OpenGL**
 
 ## You can find me here:
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/vladsach" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="vladsach" height="45" width="55" />
+        <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="vladsach" height="45" width="55" />
     </a>
     <a href="https://codeforces.com/profile/vladsach" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="vladsach" height="45" width="55" />
+        <img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="vladsach" height="45" width="55" />
+    </a>
+    <a href="https://gitlab.com/VladSach" target="blank">
+        <img align="center" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="vladsach" height="45" width="55" />
     </a>
     <a href="https://www.leetcode.com/vladsach" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vladsach" height="45" width="55" />
@@ -57,16 +62,23 @@
 <br><br>
 
 <details>	
-    <summary><b>Github Stats</b></summary>
+  <summary><b>Github Stats</b></summary>
   
   <br>
-  <img align="center" height="180em" src="https://github-readme-stats-vladsach.vercel.app/api/top-langs?username=vladsach&show_icons=true&theme=dracula&locale=en&layout=compact" alt="VladSach's GitHub Stats" />
-    <img align="center" height="180em" src="https://github-readme-stats-vladsach.vercel.app/api?username=vladsach&show_icons=true&theme=dracula&locale=en" alt="VladSach's GitHub Stats" />
+  <img align="center" height="170em" src="https://github-readme-stats-vladsach.vercel.app/api/top-langs?username=vladsach&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="VladSach's GitHub Stats" />
+  <img align="center" height="170em" src="https://github-readme-stats-vladsach.vercel.app/api?username=vladsach&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="VladSach's GitHub Stats" />
+    
+</details>
+<details>	
+  <summary><b>Github Streaks</b></summary>
+
+  <br>
+  <!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=vladsach&theme=tokyonight&hide_border=true" />
 </details>
 
-## Support:
 <p>
-    <a href="https://www.buymeacoffee.com/vladsach"> 
-        <img align="left" height="50" width="210" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="vladsach" />
-    </a>
+  <a href="https://www.buymeacoffee.com/vladsach"> 
+    <img align="left" height="50em" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="vladsach" />
+  </a>
 </p>
