@@ -12,7 +12,7 @@
 <!-- - At the moment diving into C and low-level programming -->
 - I'm a bachelors's student majoring in Software Engineering at [Kyiv Polytechnic Institute](https://kpi.ua/en)
 - Currently reading [Game Engine Architecture](https://www.amazon.com/Engine-Architecture-Third-Jason-Gregory/dp/1138035459)
-- [Resume]()
+- [Resume](https://vladsach.github.io/media/Vladyslav_Sachenko.pdf)
 
 ## You can find me here:
 <p align="center">
@@ -23,7 +23,7 @@
         <img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="vladsach" height="45" width="55" />
     </a>
     <a href="https://gitlab.com/VladSach" target="blank">
-        <img align="center" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="vladsach" height="45" width="55" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="vladsach" height="45"/>
     </a>
     <a href="https://www.leetcode.com/vladsach" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vladsach" height="45" width="55" />
@@ -35,30 +35,15 @@
 
 ## Languages and Tools:
 <p align="center"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/> 
-    </a>
-    <a href="https://www.python.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> 
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/bash/bash-colored.svg" alt="bash" width="60" height="60"/> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
-    </a>
-    <a href="https://www.docker.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/> 
-    </a>
-    <a href="https://www.linux.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> 
-    </a>
-    <a href="https://unrealengine.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="55" height="55"/> 
-    </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/bash/bash-colored.svg" alt="bash" width="60" height="60"/>
+  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/icon-256x256_hXeCvOl.png" alt="valgrind" width="55" height="55"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="linux" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
 </p>
 
 <br>
