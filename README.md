@@ -34,11 +34,12 @@
 </p>
 
 ## Languages and Tools:
+
+<!-- <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/bash/bash-colored.svg" alt="bash" width="60" height="60"/> -->
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/bash/bash-colored.svg" alt="bash" width="60" height="60"/>
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/icon-256x256_hXeCvOl.png" alt="valgrind" width="55" height="55"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="60"/>
