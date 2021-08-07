@@ -10,7 +10,7 @@
 <img align="right" alt="image" width="300em" src="https://github.com/VladSach/VladSach/blob/master/readerC.png" />
 
 - I'm a bachelors's student majoring in Software Engineering at [Kyiv Polytechnic Institute](https://kpi.ua/en)
-- At the moment diving into C and low-level programming
+<!-- - At the moment diving into C and low-level programming -->
 - Currently reading [Game Engine Architecture](https://www.amazon.com/Engine-Architecture-Third-Jason-Gregory/dp/1138035459)
 - [Resume]()
 
@@ -67,8 +67,8 @@
   <summary><b>Github Stats</b></summary>
   
   <br>
-  <img align="center" height="170em" src="https://github-readme-stats-vladsach.vercel.app/api/top-langs?username=vladsach&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="VladSach's GitHub Stats" />
-  <img align="center" height="170em" src="https://github-readme-stats-vladsach.vercel.app/api?username=vladsach&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="VladSach's GitHub Stats" />
+  <img align="center" height="150em" src="https://github-readme-stats-vladsach.vercel.app/api/top-langs?username=vladsach&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="VladSach's GitHub Stats" />
+  <img align="center" height="150em" src="https://github-readme-stats-vladsach.vercel.app/api?username=vladsach&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="VladSach's GitHub Stats" />
     
 </details>
 <details>	
