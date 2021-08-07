@@ -3,14 +3,16 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">   
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=33F76C&center=true&vCenter=true&height=50&lines=Software+Engineer;A+low-level+kind+of+guy+;Stay+hydrated)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=33F76C&center=true&vCenter=true&height=50&lines=Software+Engineer;A+passionate+low-level+programmer;536F+6D65+2048+4558+2029;Stay+hydrated">
   </a>
 </p>
 
 <img align="right" alt="image" width="300em" src="https://github.com/VladSach/VladSach/blob/master/readerC.png" />
 
-- I'm a third year student pursuing Bachelors's in Software Engineering from Kyiv Polytechnic Institute
-- I’m currently learning **C/C++, Boost, OpenGL**
+- I'm a bachelors's student majoring in Software Engineering at [Kyiv Polytechnic Institute](https://kpi.ua/en)
+- At the moment diving into C and low-level programming
+- Currently reading [Game Engine Architecture](https://www.amazon.com/Engine-Architecture-Third-Jason-Gregory/dp/1138035459)
+- [Resume]()
 
 ## You can find me here:
 <p align="center">
@@ -33,9 +35,6 @@
 
 ## Languages and Tools:
 <p align="center"> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/> 
-    </a>
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>
     </a>
@@ -44,6 +43,9 @@
     </a>
     <a href="https://www.python.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> 
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/bash/bash-colored.svg" alt="bash" width="60" height="60"/> 
     </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
@@ -59,7 +61,7 @@
     </a>
 </p>
 
-<br><br>
+<br>
 
 <details>	
   <summary><b>Github Stats</b></summary>
@@ -76,9 +78,15 @@
   <!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=vladsach&theme=tokyonight&hide_border=true" />
 </details>
+<details>	
+  <summary><b>0_0</b></summary>
 
-<p>
-  <a href="https://www.buymeacoffee.com/vladsach"> 
-    <img align="left" height="50em" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="vladsach" />
-  </a>
-</p>
+  <br>
+  <!-- https://count.getloli.com -->
+  <img  src="https://count.getloli.com/get/@:vladsach?theme=rule34" />
+</details>
+
+### Like My Work?
+<a href="https://www.buymeacoffee.com/vladsach"> 
+  <img height="50em" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="vladsach" />
+</a>
