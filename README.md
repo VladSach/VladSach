@@ -67,8 +67,8 @@
   <summary><b>Github Stats</b></summary>
   
   <br>
-  <img align="center" height="160em" src="https://github-readme-stats-vladsach.vercel.app/api/top-langs?username=vladsach&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="VladSach's GitHub Stats" />
-  <img align="center" height="160em" src="https://github-readme-stats-vladsach.vercel.app/api?username=vladsach&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="VladSach's GitHub Stats" />
+  <img align="center" height="165em" src="https://github-readme-stats-vladsach.vercel.app/api/top-langs?username=vladsach&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="VladSach's GitHub Stats" />
+  <img align="center" height="165em" src="https://github-readme-stats-vladsach.vercel.app/api?username=vladsach&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="VladSach's GitHub Stats" />
     
 </details>
 <details>	
