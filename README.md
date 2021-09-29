@@ -10,7 +10,7 @@
 <img align="right" alt="image" width="300em" src="https://github.com/VladSach/VladSach/blob/master/media/readerC.png" />
 
 <!-- - At the moment diving into C and low-level programming -->
-- I'm a bachelors's student majoring in Software Engineering at [Kyiv Polytechnic Institute](https://kpi.ua/en)
+- I'm a bachelor student majoring in Software Engineering at [Kyiv Polytechnic Institute](https://kpi.ua/en)
 - Currently reading [Game Engine Architecture](https://www.amazon.com/Engine-Architecture-Third-Jason-Gregory/dp/1138035459)
 - [Resume](https://github.com/VladSach/VladSach/blob/master/media/Vladyslav_Sachenko.pdf)
 
