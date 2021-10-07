@@ -64,6 +64,18 @@
   <!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=vladsach&theme=tokyonight&hide_border=true" />
 </details>
+
+<details>	
+  <summary><b>Interesting facts about me</b></summary>
+  
+  <br>
+  
+  - I like so style my READMEs according to [this](https://rowanmanning.com/posts/writing-a-friendly-readme/)
+  - And my CHANGELOGs to [this](https://keepachangelog.com/en/1.0.0/)
+  - I am working on my personal webpage at the moment
+  
+</details>
+
 <details>	
   <summary><b>0_0</b></summary>
 
