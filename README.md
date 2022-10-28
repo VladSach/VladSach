@@ -19,9 +19,6 @@
     <a href="https://linkedin.com/in/vladsach" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="vladsach" height="45" width="55" />
     </a>
-    <a href="https://codeforces.com/profile/vladsach" target="blank">
-        <img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="vladsach" height="45" width="55" />
-    </a>
     <a href="https://gitlab.com/VladSach" target="blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="vladsach" height="45"/>
     </a>
