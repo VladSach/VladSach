@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img align="right" alt="image" width="300em" src="https://github.com/VladSach/VladSach/blob/master/media/readerC.png" />
+<img align="right" alt="image" width="300em" src="https://github.com/VladSach/VladSach/blob/master/media/Mai_Sakurajima_Ray_Tracing_Gems_II.png" />
 
 <!-- - At the moment diving into C and low-level programming -->
 - I'm a bachelor student majoring in Software Engineering at [Kyiv Polytechnic Institute](https://kpi.ua/en)
