@@ -11,4 +11,4 @@
 
 - I hold a Bachelor's degree in Software Engineering from [Kyiv Polytechnic Institute](https://kpi.ua/en)
 - Currently working on [Hikai](https://github.com/VladSach/Blight) Game Engine
-- [Resume](https://github.com/VladSach/VladSach/blob/master/media/Vladyslav_Sachenko.pdf)
+- [Resume](https://rxresu.me/vladsach/resume)
